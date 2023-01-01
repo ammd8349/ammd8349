@@ -2,5 +2,5 @@
   "عنوان": "سفارش تبلیغات ",
   "کپشن": "برای سفارش تبلیغات لطفا کلید کنید",
   "تصویر": "https://s2.uupload.ir/files/img_20230101_195545_242_0oan.jpg",
-  "لینک": "https://rubika.ir/Sekane_3"
+  "لینک": "intent://details?id=com.freedrive.iraniancar2&ref=https%3A%2F%2Fwww.google.com%2F#Intent;scheme=bazaar;package=com.farsitel.bazaar;S.browser_fallback_url=https%3A%2F%2Fcafebazaar.ir%2Finstall%2Fcom.freedrive.iraniancar2%3Fautostart;end"
 }
